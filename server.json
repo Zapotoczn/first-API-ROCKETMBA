@@ -1,0 +1,44 @@
+{
+  "Product": [
+    {
+      "id": "1",
+      "name": "teclado",
+      "price": 101.1
+    },
+    {
+      "id": "2",
+      "name": "mouse",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "mousepad",
+      "price": 200
+    },
+    {
+      "id": "1719371401056",
+      "name": "sara",
+      "price": "223"
+    },
+    {
+      "id": "1719371439794",
+      "name": "GAITA",
+      "price": "324"
+    },
+    {
+      "id": "1719371617151",
+      "name": "Copo",
+      "price": "20"
+    },
+    {
+      "id": "1719371677640",
+      "name": "lapis",
+      "price": "5"
+    },
+    {
+      "id": "1719371782557",
+      "name": "Chimas",
+      "price": "31"
+    }
+  ]
+}
